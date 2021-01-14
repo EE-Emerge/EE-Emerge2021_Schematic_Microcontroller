@@ -3,3 +3,4 @@
 # Team Members
 * Sean Alling (Teaching Assistant)
 * Jan Truong
+* Avery Turk
