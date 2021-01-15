@@ -7,3 +7,4 @@
 * Katherine Tran
 * Aiseosa Omorogieva
 * Kevin Phan
+* Ryan Kim
