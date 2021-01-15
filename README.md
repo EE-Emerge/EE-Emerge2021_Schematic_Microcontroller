@@ -5,3 +5,4 @@
 * Jan Truong
 * Avery Turk
 * Katherine Tran
+* Anelise Cho
