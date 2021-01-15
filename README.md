@@ -6,3 +6,4 @@
 * Avery Turk
 * Katherine Tran
 * Aiseosa Omorogieva
+* Kevin Phan
