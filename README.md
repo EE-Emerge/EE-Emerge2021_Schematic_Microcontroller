@@ -2,6 +2,8 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
+* Varsha Senthil (Co Team Lead)
+* Devon Liu (Co Team Lead)
 * Jan Truong
 * Avery Turk
 * Katherine Tran
